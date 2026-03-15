@@ -1,0 +1,4 @@
+[
+  "^https:\\/\\/js\\.stripe\\.com\\/v3\\/elements-inner-(card|accessory)",
+  "^https:\\/\\/checkout\\.pci\\.shopifyinc\\.com"
+]
