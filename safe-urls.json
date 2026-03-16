@@ -1,4 +1,8 @@
 [
   "^https:\\/\\/js\\.stripe\\.com\\/v3\\/elements-inner-(card|accessory)",
-  "^https:\\/\\/checkout\\.pci\\.shopifyinc\\.com"
+  "^https:\\/\\/checkout\\.pci\\.shopifyinc\\.com",
+  "^https:\\/\\/api\\.recurly\\.com",
+  "^https:\\/\\/web\\.squarecdn\\.com",
+  "^https:\\/\\/buy\\.paddle\\.com",
+  "^https:\\/\\/assets\\.braintreegateway\\.com\\/web"
 ]
